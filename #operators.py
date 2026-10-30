@@ -1,4 +1,4 @@
- # assainent operators     
+ # assainment operators     
 a = 10
 a = a + 100  
 a += 100 #short from     
